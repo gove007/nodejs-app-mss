@@ -6,6 +6,7 @@
   "publishConfig": {
     "registry": "http://44.199.203.123:8081/gove/repository/nodejs-repo/"
   },
+  npm login --registry="http://44.199.203.123:8081/gove/repository/nodejs-repo/"
   "scripts": {
     "server": "http-server -c-1 -p 9999",
     "start1": "nodemon app.js",
