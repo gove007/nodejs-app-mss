@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://44.193.206.100:8081/gove/repository/nodejs-repo/"
+    "registry": "http://44.199.203.123:8081/gove/repository/nodejs-repo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
