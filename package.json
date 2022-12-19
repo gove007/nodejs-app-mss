@@ -26,11 +26,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MithunTechnologies/node-js-application"
+    "url": "https://github.com/gove007/nodejs-app-mss.git"
   },
   "keywords": [
     "node",
-    "Mithun Technologies",
+    "gove",
     "express"
   ],
   "author": "Mithun Reddy Lacchannagari",
